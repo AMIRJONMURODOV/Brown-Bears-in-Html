@@ -7,3 +7,5 @@ Created on Thu Mar 16 12:03:26 2023
 ""
 age "Murodov Amirjon "
 print ( age )
+name = "Amirjon " 
+print (name)
